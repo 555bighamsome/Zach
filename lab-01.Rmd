@@ -14,7 +14,8 @@ library(tidyverse)
 ```
 
 ```{r load-data, message=FALSE}
-# Do not edit this code chunk!
+# Do not edit this code chunk!git status
+
 visitors <- read_csv("data/UK-visitor-numbers.csv")
 ```
 
